@@ -22,7 +22,7 @@ class FizzBuzz {
         // for (int i = 1; i < 100; i++) {
 
             doFizzBuzz(i);
-            i += 1;
+            ++i;
         }
     }
 
